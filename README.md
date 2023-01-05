@@ -1,7 +1,8 @@
 # <center>JungBear(Jung Sang pil)</center>
 
 ### <center>🔧 Tech Stack</center>
-<center><div>Techs that I've used at least once</div></center>
+<div>
+<center>Techs that I've used at least once</center>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
@@ -16,6 +17,7 @@
 <a><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
+</div>
 
 ### <center> 🪄 [blog](https://jungbear.tistory.com/) 🪄 </center>
 
