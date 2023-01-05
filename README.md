@@ -1,7 +1,7 @@
 # <center>JungBear(Jung Sang pil)</center>
 
 ### <center>🔧 Tech Stack</center>
-<div>
+<div align="center">
 <center><div>Techs that I've used at least once</div></center>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
