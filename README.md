@@ -21,9 +21,8 @@
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp;
 </div>
 
-### <center> 🪄 [blog](https://jungbear.tistory.com/) 🪄 </center>
+### <div align="center"> 🪄 [blog](https://jungbear.tistory.com/) 🪄 </div>
 
-###
 
 
 <!--
