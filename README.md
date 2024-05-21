@@ -2,9 +2,9 @@
 
 # <div align="center">JungBear(Jung Sang pil)</div>
 
-### <div align="center">🔧 Tech Stack</div>
+## <div align="center">🔧 Tech Stack</div>
 <div align="center">
-<center><div>Techs that I've used at least once</div></center>
+<center><h3>Techs that I've used at least once</h3></center>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
