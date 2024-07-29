@@ -17,7 +17,9 @@
 <a><img src="https://img.shields.io/badge/react.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a>&nbsp;
----
+
+- - -
+
 <center><h3>Techs that I've used at least once</h3></center>
 <a><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
 <a><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></a>&nbsp;
