@@ -36,8 +36,6 @@
 <a><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/></a>&nbsp;
 </div>
 
-### <div align="center">🪄 [blog](https://jungbear.tistory.com/) 🪄 </div>
-
 
 
 <!--
