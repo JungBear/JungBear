@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&&width=auto&height=300&section=header&text=Jung%20SangPil&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&&width=100%&height=300&section=header&text=Jung%20SangPil&fontSize=90)
 ## <div align="center">🔧 Tech Stack</div>
 
 <div align="center">
