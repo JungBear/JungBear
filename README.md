@@ -22,16 +22,6 @@
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
 
 
-- - -
-
-<center><h3>Techs that I've used at least once</h3></center>
-<a><img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/></a>&nbsp;
-<a><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />&nbsp;
-</div>
-
-
 
 <!--
 **JungBear/JungBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
